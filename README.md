@@ -1,12 +1,17 @@
+# Aluminium boxes.
+
+These boxes to be assembled in aluminum material have been designed with FreeCAD.
+
+Some boxes have the measures only for the main parts, the other measures of the parts and holes are symmetrical to those created.
 ## Box dimensions:
 
-1. box measures: 18x29x47 cms (180x290x470 mm), internally. Using fibonasi sequence measurements with seeds 1 and 3.
+1. Box measures: 18x29x47 cms (180x290x470 mm), internally. Using fibonasi sequence measurements with seeds 1 and 3.
 
 ## Parts:
 
 ### Angles:
 
-1. aluminum angle:
+1. Aluminum angle:
    1. part number: A011.
    2. Width: 25.15 mm.
    3. Internal width: 22.85 mm.
