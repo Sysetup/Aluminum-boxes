@@ -1,5 +1,18 @@
 # Aluminium boxes.
 
+----
+
+```bash
+   ____             __             
+  / __/_ _____ ___ / /___ _____ _/|
+ _\ \/ // (_-</ -_) __/ // / _ > _<
+/___/\_, /___/\__/\__/\_,_/ .__//  
+    /___/                /_/       
+> Systems development company.
+```
+
+----
+
 These boxes to be assembled in aluminum material have been designed with FreeCAD.
 
 Some boxes have the measures only for the main parts, the other measures of the parts and holes are symmetrical to those created.
