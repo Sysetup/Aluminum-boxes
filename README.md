@@ -403,7 +403,7 @@ Total angles PA019: 1004.8 mm. **1.3 Meters**
 ###### Quantities:
 
 1. 2 * 502.4mm --> Width top right and top left. 1004.8mm. [#11 and #12] P#1, 997mm.
-2. 2 * 777.9 mm --> Front and rear cover lengths. 1556mm [#13 and #14] p#2, 2mts: 2000 mm - 1556 mm = 444 mm. **THESE 2 ARE MISSING**
+2. 2 * 777.9 mm --> Front and rear cover lengths. 1556mm [#13 and #14] p#2, 2mts: 2000 mm - 1556 mm = 444 mm.
 3. 2 * 760mm --> Long top front and top rear. 1520mm [#9 and #10] p#3, 2mts: 2000 mm - 1520 mm = 480 mm.
 
 Total PP030 plates: 4039.8 mm. **4.1 Meters.**
