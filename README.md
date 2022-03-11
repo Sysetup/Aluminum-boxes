@@ -19,11 +19,15 @@
 
 ----
 
+![Covers](./18x29x47cms/Parts/Covers.png)
+
+![Structure](./18x29x47cms/Parts/Structure.png)
+
+----
+
 1. [Box: 180 x 290 x 470 mm.](./18x29x47cms/180x290x470mm.md)
 2. [Box: 290 x 290 x 470 mm.](./29x29x47cms/290x290x470mm.md)
 3. [Box: 290 x 470 x 470 mm.](./29x47x47cms/290x470x470mm.md)
 4. [Box: 290 x 470 x 760 mm.](./29x47x76cms/290x470x760mm.md)
 
 ----
-
-Translated with www.DeepL.com/Translator (free version)
